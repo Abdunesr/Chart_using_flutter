@@ -1,16 +1,6 @@
-# chart_graph
+Chart _Graph
 
-A new Flutter project.
+This project aim to practice my skill on graphs  it just  A start that showws the fl_chart package that uses weekly expense of some users from monday to sunday show the expense of the days in comparing form of graph grate theming is used 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+for more you can use the official page of flutter  https//:flutter.dev.com
